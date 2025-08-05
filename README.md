@@ -7,7 +7,8 @@ GitHub Actions で動画データ・JSONデータの生成を行い、GitHub Pag
 
 ## 使い方
 
-1. 何らかの方法で、このレポジトリを複製します。
+1. 右上の Use this template -> Create a new repository を選択し、レポジトリを複製します。
+   複製したレポジトリを、ローカル環境に clone します。
 2. posters 以下に好きな名前のディレクトリを作成します。
 3. 作成したディレクトリの中に、ポスターの画像を poster.png という名前で置きます。
 4. 作成したディレクトリの中に、group_id という名前のファイルを作ります。
